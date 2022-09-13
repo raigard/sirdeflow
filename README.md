@@ -1,4 +1,4 @@
-"""
+
 Title: Simplified Rheology Based Debris Flow Routing - SIRDEFLOW
 
 Description: This code was developed for a master's dissertation. The code intends to simulate a debris flow mass
@@ -21,4 +21,4 @@ Version notes: i) Added the possibility to simulate for a specific number of ite
 
 This code is intended to be free for non commercial applications (e.g. public, scientific and recreational applications)
 If you intend to use this code under different scenarios, please contact the author.
-"""
+
